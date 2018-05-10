@@ -9,3 +9,7 @@ To run this project:
   6.) Move to direcotry nano_bot/launch
   7.) Type: roslaunch nano.launch
   8.) Gazebo and Rviz should open up project into directory.
+  
+  
+  
+![work2](https://user-images.githubusercontent.com/22567278/39848515-61aeee20-53d5-11e8-9098-23d6a655416f.png)
